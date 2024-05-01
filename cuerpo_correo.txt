@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Correo de Jairol Grullón</title>
+</head>
+<body>
+    <p>Buenas, equipo de reclutamiento y selección BHD.</p>
+    <p>Mi nombre es Jairol Grullón, y soy un técnico especializado en seguridad de la información con experiencia en DevOps y desarrollo fullstack utilizando Django. Me dirijo a ustedes con el interés de explorar oportunidades laborales en su prestigiosa institución, en áreas relacionadas con tecnologías de la información.</p>
+    <p>Mi formación académica incluye un título de Tecnólogo Superior en Seguridad Informática obtenido en ITLA, complementado con un sólido conocimiento en sistemas operativos como Linux y Windows, además de habilidades de programación en Python. En mi carrera profesional, he tenido el privilegio de contribuir al desarrollo y la administración de aplicaciones informáticas, así como al fortalecimiento de la infraestructura de seguridad de las organizaciones para las cuales he trabajado.</p>
+    <p>Desde abril de 2023, he servido como DevOps en NAP Del Caribe, donde mis responsabilidades incluyen la automatización de procesos y la implementación de estrategias de integración y entrega continua (CI/CD) para asegurar la disponibilidad y escalabilidad de aplicaciones. Anteriormente, adquirí experiencia significativa en ciberseguridad como técnico de SOC y oficial de información de seguridad, roles que me permitieron desarrollar habilidades en el monitoreo y la detección de amenazas, gestión de incidentes y mantenimiento de herramientas de seguridad como SIEM, XDR y FIM.</p>
+    <p>Estoy convencido de que mi experiencia en asegurar la operatividad y la seguridad de sistemas informáticos será de gran beneficio para BHD León, y estoy entusiasmado con la posibilidad de contribuir a su equipo. Adjunto mi CV para su consideración y quedo a la espera de la oportunidad de discutir cómo puedo aportar a su equipo de TI.</p>
+    <p>Agradezco de antemano su tiempo y consideración. Espero poder contribuir con mi experiencia y habilidades al éxito continuo de BHD León.</p>
+    <p>Saludos cordiales.</p>
+</body>
+</html>
